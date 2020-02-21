@@ -17,7 +17,7 @@
         "network": "Twitter",
         "username": "@ceciliawebber_",
         "url": "https://twitter.com/ceciliawebber_"
-      },
+      }
 
     ]
   },
@@ -38,7 +38,7 @@
   ],
   "volunteer": [
     {
-      "organization": "CoderDojo",
+      "organization": "Society of Hispanic Professional Engineers",
       "position": "Teacher",
       "website": "http://coderdojo.com/",
       "startDate": "2012-01-01",
